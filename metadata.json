@@ -467,7 +467,7 @@
             "name" : "CJ Sober",
             "contractYear" : "0"
           },
-          "rival" : "CLE"
+          "rival" : "IOWA"
         }
       ],
       "confFullName" : "Big 10",
@@ -566,7 +566,7 @@
             "name" : "Devin Merson",
             "contractYear" : "1"
           },
-          "rival" : "NWJ"
+          "rival" : "VIR"
         },
         {
           "abbreviation" : "SYR",
@@ -589,7 +589,7 @@
             "name" : "CJ Ehrgott",
             "contractYear" : "0"
           },
-          "rival" : "PITT"
+          "rival" : "BC"
         },
         {
           "abbreviation" : "BC",
@@ -658,7 +658,7 @@
             "name" : "Roderick Halls",
             "contractYear" : "1"
           },
-          "rival" : "MAI"
+          "rival" : "MIA"
         },
         {
           "abbreviation" : "UNC",
@@ -734,7 +734,7 @@
             "name" : "DeonTae Yankovich",
             "contractYear" : "3"
           },
-          "rival" : "OKL"
+          "rival" : "OU"
         },
         {
           "abbreviation" : "OU",
@@ -895,10 +895,10 @@
             "name" : "Cannon Thall",
             "contractYear" : "3"
           },
-          "rival" : "ISU"
+          "rival" : "KSU"
         },
         {
-          "abbreviation" : "TUL",
+          "abbreviation" : "ISU",
           "prestige" : "75",
           "state" : "Iowa",
           "name" : "Iowa State",
